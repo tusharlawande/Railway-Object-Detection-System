@@ -23,14 +23,14 @@ except ImportError:
     print("⚠️ Gemini AI dependencies not found. Running without AI descriptions.")
 
 # Configuration
-GOOGLE_API_KEY = "AIzaSyBR_jc5a2WWEB5fbD4XLeeWSIQ71T3CREg"  # Updated with your new key
+GOOGLE_API_KEY = "........................"  # Updated with your new key
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
 DB_CONFIG = {
     "host": "127.0.0.1",
     "port": 3306,
     "user": "root",
-    "password": "Tushar@123",
+    "password": ".....................",
     "database": "railway_data"
 }
 
