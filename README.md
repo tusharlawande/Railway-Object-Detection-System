@@ -67,20 +67,5 @@ Install via pip:
 ```bash
 pip install opencv-python mysql-connector-python numpy ultralytics shapely langchain-google-genai
 
-Files
-Video: karad_video.mp4 at C:\Users\win10\OneDrive\Desktop\py_1\.
-Model: yolo12s.pt (pre-trained YOLOv8s) at C:\Users\win10\OneDrive\Desktop\py_1\.
-API Key
-Google API Key: AIzaSyBnJadjetRhm0cAAAU0YMe3ZgFoPWMOqdM (set in script, requires authorization for Google Generative AI API).
-Setup Instructions
-1. Install MySQL
-Download: MySQL Community Server.
-Install:
-Choose "Developer Default" setup.
-Set root password: Tushar@123.
-Port: 3306 (default).
-Add to PATH: Include C:\Program Files\MySQL\MySQL Server 8.0\bin.
-Start Service:
-# Run as Administrator
-net start MySQL80
+
 
